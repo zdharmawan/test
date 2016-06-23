@@ -1,3 +1,0 @@
-[submodule "hsdp-client"]
-	path = hsdp-client
-	url = ssh://git@atlas.natlab.research.philips.com:7999/hdc/hsdp-client.git
